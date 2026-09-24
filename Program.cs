@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace DemoMyClass
+namespace QuanLyNhanVien_WinForms
 {
     internal static class Program
     {
